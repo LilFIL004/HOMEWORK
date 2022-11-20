@@ -1,0 +1,15 @@
+C:\geekbrains\git\SEMINAR1\HWЗадача2\bin\Debug\net6.0\HWЗадача2.exe
+C:\geekbrains\git\SEMINAR1\HWЗадача2\bin\Debug\net6.0\HWЗадача2.deps.json
+C:\geekbrains\git\SEMINAR1\HWЗадача2\bin\Debug\net6.0\HWЗадача2.runtimeconfig.json
+C:\geekbrains\git\SEMINAR1\HWЗадача2\bin\Debug\net6.0\HWЗадача2.dll
+C:\geekbrains\git\SEMINAR1\HWЗадача2\bin\Debug\net6.0\HWЗадача2.pdb
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.csproj.AssemblyReference.cache
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.AssemblyInfoInputs.cache
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.AssemblyInfo.cs
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.csproj.CoreCompileInputs.cache
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.dll
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\refint\HWЗадача2.dll
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.pdb
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\HWЗадача2.genruntimeconfig.cache
+C:\geekbrains\git\SEMINAR1\HWЗадача2\obj\Debug\net6.0\ref\HWЗадача2.dll
