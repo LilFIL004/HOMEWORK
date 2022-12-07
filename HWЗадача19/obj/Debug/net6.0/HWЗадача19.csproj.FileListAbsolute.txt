@@ -1,0 +1,15 @@
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\bin\Debug\net6.0\HWЗадача19.exe
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\bin\Debug\net6.0\HWЗадача19.deps.json
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\bin\Debug\net6.0\HWЗадача19.runtimeconfig.json
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\bin\Debug\net6.0\HWЗадача19.dll
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\bin\Debug\net6.0\HWЗадача19.pdb
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.csproj.AssemblyReference.cache
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.AssemblyInfoInputs.cache
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.AssemblyInfo.cs
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.csproj.CoreCompileInputs.cache
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.dll
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\refint\HWЗадача19.dll
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.pdb
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\HWЗадача19.genruntimeconfig.cache
+C:\geekbrains\git\HOMEWORK1\HWЗадача19\obj\Debug\net6.0\ref\HWЗадача19.dll
